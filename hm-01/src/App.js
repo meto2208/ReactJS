@@ -25,10 +25,6 @@ export function App() {
             <Users user={userOne} showUser={true} />
             <hr />
             <Users user={userTwo} showUser={false} />
-
-            {/* <Users userTwo={userTwo} /> */}
-
-
         </div>
     )
 }
